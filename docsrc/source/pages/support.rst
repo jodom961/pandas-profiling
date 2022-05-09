@@ -21,6 +21,7 @@ Read more on this page: `'Installing Python Packages from a Jupyter Notebook' <h
 
 Related issues:
 `[950] <https://github.com/ydataai/pandas-profiling/issues/950>`_
+`[939] <https://github.com/ydataai/pandas-profiling/issues/939>`_
 `[528] <https://github.com/ydataai/pandas-profiling/issues/528>`_
 `[485] <https://github.com/ydataai/pandas-profiling/issues/485>`_
 `[396] <https://github.com/ydataai/pandas-profiling/issues/396>`_
@@ -77,7 +78,7 @@ You should provide the minimal information to reproduce this bug. `This guide <h
 - a sample of the dataset (``df.sample()`` or ``df.head()``) Please share your dataframe. If the data is confidential, for example when it contains company-sensitive information, provide us with a synthetic or open dataset that produces the same error.
 You can anonymize the column names if necessary.
 
-- a description of the dataset (``df.info()``) You should provide the DataFrame structure, for example by reporting the output of `df.info()`.
+- a description of the dataset (``df.info()``) You should provide the DataFrame structure, for example by reporting the output of ```df.info()``.
 
 Issue formatting
 ----------------
